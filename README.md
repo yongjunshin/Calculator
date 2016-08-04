@@ -17,3 +17,9 @@ The expression should only use 0 ~ 9 positive integer digit(smaller than 10), ()
 //  printf("result: %f\n", Calculate("(1+2)*{(3-4)/2}");
 //  return 0;
 //}
+
+
+future job
+1. bigger than 9 and negative integer input
+2. floating value calculate
+3. expression error check function
